@@ -1,5 +1,7 @@
 # Burger-Example
 
+Its a burger app fully created with React. To control state container it uses [Redux](https://github.com/reduxjs/redux). With this app you can build your burger and order it with giving your address. To order a burger you need sign up to it. As a back end it uses [Firebase Real Time Database](https://firebase.google.com/) and [Firebase Authentication System](https://firebase.google.com/).
+
 
 --Create Burger--  
 ![open-gif](https://user-images.githubusercontent.com/27813389/98985964-5422e700-2535-11eb-979c-fb67d9f972cb.gif)
